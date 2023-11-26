@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>c, c++, 자료구조 배우는중..</p>
+<p>interested in Embeded System</p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s9430939)](https://solved.ac/s9430939/)
 <!--
