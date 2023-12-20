@@ -1,5 +1,6 @@
 ### Hi there 👋
 <p>interested in Embeded System</p>
+<p> Arm Architecture </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s9430939)](https://solved.ac/s9430939/)
 <!--
