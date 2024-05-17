@@ -1,5 +1,6 @@
 ### Hi there 👋
-<p>interested in Embeded System</p>
+<p>interested in</p>
+<p>Embeded System</p>
 <p>System Programming</p>
 <p> Arm Architecture </p>
 
