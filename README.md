@@ -1,8 +1,11 @@
 ### What's up👋
-<p>interested in</p>
+<p>Interested in</p>
 <p>Embedded System</p>
 <p>System Programming</p>
 <p> Arm Architecture </p>
+
+
+
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s9430939)](https://solved.ac/s9430939/)
 <!--
