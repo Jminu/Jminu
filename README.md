@@ -1,8 +1,10 @@
-### What's up👋
-<p>Interested in</p>
-<p>Embedded System</p>
-<p>System Programming</p>
-<p> Arm Architecture </p>
+## Education
++ Hansung University 2022~
+
+## Interests
++ Embedded System
++ System Programming
++ ARM architecture
 
 
 
