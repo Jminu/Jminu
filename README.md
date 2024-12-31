@@ -5,7 +5,16 @@
 + Embedded System
 + System Programming
 + ARM architecture
++ RTOS
 
+## Programming Language
++ C
++ C++
++ Assembly
+
+## FrameWork
++ Visual Studio
++ Cube IDE
 
 
 
