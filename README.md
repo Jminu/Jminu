@@ -10,11 +10,10 @@
 ## Programming Language
 + C
 + C++
-+ Assembly
 
 ## FrameWork
 + Visual Studio
-+ Cube IDE
++ STM32 Cube IDE
 
 
 
