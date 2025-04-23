@@ -1,5 +1,5 @@
 ## Education
-+ Hansung University 2022~
++ Hansung University CSE 2022~
 
 ## Interests
 + Embedded System
@@ -11,7 +11,7 @@
 + C
 + C++
 
-## FrameWork
+## Tools
 + Visual Studio
 + STM32 Cube IDE
 
