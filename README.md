@@ -10,6 +10,7 @@
 ## Programming Language
 + C
 + C++
++ Python
 
 ## Tools
 + Visual Studio
