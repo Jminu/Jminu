@@ -2,6 +2,9 @@
 
 I'm an aspiring embedded systems and system programming engineer, passionate about low-level development, ARM architectures, and mobility software.
 
+## 👤Resume
+https://leeward-periodical-c43.notion.site/17d60518a7148099917bde30ce82743b?source=copy_link
+
 ## 📚 Education
 - **Hansung University** — Computer Science and Engineering (2022~)
 
@@ -20,6 +23,3 @@ I'm an aspiring embedded systems and system programming engineer, passionate abo
 ## ⚙️ Tools
 - Visual Studio
 - STM32CubeIDE
-
-## 📈 My Coding Stats
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=s9430939)](https://solved.ac/s9430939/)
