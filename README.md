@@ -3,7 +3,7 @@
 I'm an aspiring embedded systems and system programming engineer, passionate about low-level development, ARM architectures, and mobility software.
 
 ## 👤Resume
-https://leeward-periodical-c43.notion.site/17d60518a7148099917bde30ce82743b?source=copy_link
+https://docs.google.com/document/d/11_EiaDDKeTp0eaT2SZjlzW2aL5g1ymGDpW12751BYKA/edit?usp=sharing
 
 ## 📚 Education
 - **Hansung University** — Computer Science and Engineering (2022~)
