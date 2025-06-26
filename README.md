@@ -1,6 +1,8 @@
 # Jin Minu
 
-I'm an aspiring embedded systems and system programming engineer, passionate about low-level development, ARM architectures, and mobility software.
+I'm an aspiring embedded systems and system programming engineer,
+
+passionate about low-level development, ARM architectures.
 
 ## 👤Resume
 https://docs.google.com/document/d/11_EiaDDKeTp0eaT2SZjlzW2aL5g1ymGDpW12751BYKA/edit?usp=sharing
@@ -10,10 +12,9 @@ https://docs.google.com/document/d/11_EiaDDKeTp0eaT2SZjlzW2aL5g1ymGDpW12751BYKA/
 
 ## 🎯 Interests
 - Embedded Systems
-- System Programming
+- Linux System Programming
 - ARM Architecture
 - Real-Time Operating Systems (RTOS)
-- Mobility Software
 
 ## 🛠️ Programming Languages
 - C
@@ -22,4 +23,6 @@ https://docs.google.com/document/d/11_EiaDDKeTp0eaT2SZjlzW2aL5g1ymGDpW12751BYKA/
 
 ## ⚙️ Tools
 - Visual Studio
-- STM32CubeIDE
+- Clion
+- STM32 Cube IDE
+- GDB, Cmake
