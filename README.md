@@ -12,9 +12,9 @@ https://docs.google.com/document/d/11_EiaDDKeTp0eaT2SZjlzW2aL5g1ymGDpW12751BYKA/
 
 ## 🎯 Interests
 - Embedded Systems
-- Linux System Programming
-- ARM Architecture
-- Real-Time Operating Systems (RTOS)
+- Linux System Programming, Device Driver
+- ARM Architecture, Firmware
+- FreeRTOS
 
 ## 🛠️ Programming Languages
 - C
