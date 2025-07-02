@@ -19,6 +19,7 @@ https://docs.google.com/document/d/1Wggc5quWICbuVhXG5sHvBkKr96jlNevHg_BszpliZJ8/
 ## 🛠️ Programming Languages
 - C
 - C++
+- Assembly
 - Python
 
 ## ⚙️ Tools
