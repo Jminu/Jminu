@@ -5,7 +5,7 @@ I'm an aspiring embedded systems and system programming engineer,
 passionate about low-level development, ARM architectures.
 
 ## 👤Resume
-https://docs.google.com/document/d/11_EiaDDKeTp0eaT2SZjlzW2aL5g1ymGDpW12751BYKA/edit?usp=sharing
+https://docs.google.com/document/d/1Wggc5quWICbuVhXG5sHvBkKr96jlNevHg_BszpliZJ8/edit?usp=sharing
 
 ## 📚 Education
 - **Hansung University** — Computer Science and Engineering (2022~)
