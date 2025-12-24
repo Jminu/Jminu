@@ -1,5 +1,6 @@
 ### Minu Jin
 + s9430939@naver.com
++ Hansung Univ 2022~2026
 + Interest: Linux Kernel
 + Language: C
 
