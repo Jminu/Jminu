@@ -12,14 +12,22 @@ https://git.kernel.org/pub/scm/linux/kernel/git/akpm/25-new.git/tree/patches/for
 
 https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/commit/?h=staging-next&id=69dc48dc550640b1c33e30f32620fe5ef1b068e9
 
-3. 오타 수정 및 printk 커널로그 pr_err현대화 ⏳
+3. fix unchecked return value of skb_copy_bits ⏳
+
+https://lore.kernel.org/all/20260120025051.2843461-1-s9430939@naver.com/
+
+4. use kzalloc directly in _rtw_zmalloc ⏳
+
+https://lore.kernel.org/all/20260120054036.3783680-1-s9430939@naver.com/
+
+5. 오타 수정 및 printk 커널로그 pr_err현대화 ⏳
 
 https://lore.kernel.org/all/20260102062759.3749606-1-s9430939@naver.com/
 
-4. 헬퍼 함수 도입을 통한 레지스터 접근 리팩토링 ⏳
+6. 헬퍼 함수 도입을 통한 레지스터 접근 리팩토링 ⏳
 
 https://lore.kernel.org/all/20260113133831.3422480-2-s9430939@naver.com/
 
-5. 연속 I/O 함수 도입을 통한 데이터 전송 로직 현대화 ⏳
+7. 연속 I/O 함수 도입을 통한 데이터 전송 로직 현대화 ⏳
 
 https://lore.kernel.org/all/20260113133831.3422480-3-s9430939@naver.com/
