@@ -4,11 +4,11 @@
 + Language: C
 
 ### Kernel Contribution
-1. mm_release()동작 검증 -> 동작을 명확히 설명하는 주석으로 교체 ✅
+1. mm_release()동작 검증 -> 동작을 명확히 설명하는 주석으로 교체 ✅ (Signed-off-by Andrew Morton)
 
 https://git.kernel.org/pub/scm/linux/kernel/git/akpm/25-new.git/tree/patches/fork-comment-fix-remove-ambiguous-question-mark-in-clone_child_cleartid-comment.patch
 
-2. PTR_ALIGN 사용을 통한 포인터 정렬 코드 개선 ✅
+2. PTR_ALIGN 사용을 통한 포인터 정렬 코드 개선 ✅ (Signed-off-by Greg KH)
 
 https://git.kernel.org/pub/scm/linux/kernel/git/gregkh/staging.git/commit/?h=staging-next&id=69dc48dc550640b1c33e30f32620fe5ef1b068e9
 
