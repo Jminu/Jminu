@@ -6,7 +6,7 @@
 ### Kernel Contribution
 1. mm_release()동작 검증 -> 동작을 명확히 설명하는 주석으로 교체 ✅ (Signed-off-by Andrew Morton)
 
-https://git.kernel.org/pub/scm/linux/kernel/git/akpm/25-new.git/tree/patches/fork-comment-fix-remove-ambiguous-question-mark-in-clone_child_cleartid-comment.patch
+https://git.kernel.org/pub/scm/linux/kernel/git/akpm/mm.git/commit/?h=mm-nonmm-unstable&id=f34e19c34e4e92338d2ceaab2b95dd7790d262de
 
 2. PTR_ALIGN 사용을 통한 포인터 정렬 코드 개선 ✅ (Signed-off-by Greg KH)
 
