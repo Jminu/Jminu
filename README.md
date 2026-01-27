@@ -24,18 +24,18 @@ https://lore.kernel.org/all/20260120054036.3783680-1-s9430939@naver.com/
 
 https://lore.kernel.org/linux-staging/aXjwRsm7NhRpyWJH@JMW-Ubuntu/T/#t
 
-5. copy_mm() 동작 검증 -> 동작 명확히 설명하는 주석으로 교체 ⏳
+6. copy_mm() 동작 검증 -> 동작 명확히 설명하는 주석으로 교체 ⏳
 
 https://lore.kernel.org/all/20260127055321.2400480-1-s9430939@naver.com/
 
-6. 오타 수정 및 printk 커널로그 pr_err현대화 ⏳
+7. 오타 수정 및 printk 커널로그 pr_err현대화 ⏳
 
 https://lore.kernel.org/all/20260102062759.3749606-1-s9430939@naver.com/
 
-7. 헬퍼 함수 도입을 통한 레지스터 접근 리팩토링 ⏳
+8. 헬퍼 함수 도입을 통한 레지스터 접근 리팩토링 ⏳
 
 https://lore.kernel.org/all/20260113133831.3422480-2-s9430939@naver.com/
 
-8. 연속 I/O 함수 도입을 통한 데이터 전송 로직 현대화 ⏳
+9. 연속 I/O 함수 도입을 통한 데이터 전송 로직 현대화 ⏳
 
 https://lore.kernel.org/all/20260113133831.3422480-3-s9430939@naver.com/
